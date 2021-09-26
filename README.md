@@ -4,6 +4,8 @@
 
 Tic Tac Toe game created in HTML/CSS and Javascript. It features an *unbeatable* AI player.
 
+**[Live Demo](https://tictactoe-jeffdelara.netlify.app/)**
+
 ## Against AI Player
 
 The game has an AI player as your opponent. And it has 2 difficulty settings:
